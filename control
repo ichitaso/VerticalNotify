@@ -1,0 +1,9 @@
+Package: com.ichitaso.verticalnotify
+Name: VerticalNotify
+Depends: mobilesubstrate
+Version: 0.0.1~beta1
+Architecture: iphoneos-arm
+Description: Arrange the notifications on the home screen vertically.
+Maintainer: ichitaso
+Author: ichitaso
+Section: Tweaks
